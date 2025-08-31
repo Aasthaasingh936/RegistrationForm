@@ -1,1 +1,1 @@
-# APPLEHTMLFILE
+Registration form
